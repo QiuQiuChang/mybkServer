@@ -1,0 +1,1 @@
+module.exports  = SECRET = 'ABCDEFGHIJKLMN123456'
