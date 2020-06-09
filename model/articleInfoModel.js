@@ -8,7 +8,7 @@ articleSchema = new Schema({
     content: {type: String, required: true},
     num:{type:Number}
 })
-let articleInfo = mongoose.model('aricleInfo', articleSchema)
+let articleInfo = mongoose.model('articleInfo', articleSchema)
 
 // articleInfo.create({
 //     content:``,
